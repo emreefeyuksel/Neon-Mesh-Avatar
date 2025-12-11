@@ -6,6 +6,7 @@
 </div>
 
 <div align="center">
+  <img src="sample_image.png" width="700">
   <br>
 </div>
 
