@@ -1,16 +1,14 @@
 # 🤖 Neon Mesh Avatar (Face + Hands)
 
 <div align="center">
-  <a href="#-english">🇺🇸 <strong>English</strong></a> | 
-  <a href="#-türkçe">🇹🇷 <strong>Türkçe</strong></a>
-</div>
-
-<div align="center">
   <img src="sample_image.png" width="700">
   <br>
 </div>
 
----
+<div align="center">
+  <a href="#-english">🇺🇸 <strong>English</strong></a> | 
+  <a href="#-türkçe">🇹🇷 <strong>Türkçe</strong></a>
+</div>
 
 <a name="-english"></a>
 ## 🇺🇸 English
