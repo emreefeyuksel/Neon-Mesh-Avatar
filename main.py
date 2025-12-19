@@ -8,9 +8,9 @@ from pyvirtualcam import PixelFormat
 BLACK_BACKGROUND = True  #True: Black Screen (Avatar), False: With background
 
 #Colors RGB format
-COLOR_FACE = (0, 255, 0)  # Yüz: Matrix Yeşili
-COLOR_HANDS = (0, 255, 255)  # Eller: Neon Sarı
-COLOR_IRIS = (0, 0, 255)  # Göz Bebekleri: Kırmızı
+COLOR_FACE = (0, 255, 0)  #Face: Green
+COLOR_HANDS = (0, 255, 255)  #Hands: Yellow
+COLOR_IRIS = (0, 0, 255)  #Eyes: Red
 
 #Mediapipe setup
 mp_holistic = mp.solutions.holistic
@@ -107,4 +107,5 @@ with pyvirtualcam.Camera(width=width, height=height, fps=30, fmt=PixelFormat.BGR
             break
 
 cap.release()
+
 cv2.destroyAllWindows()
